@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "Sympathy",
+  "base_artist": "Leo/need",
+  "createdAt": "2025-12-04T07:17:42.755007Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Myth of Lasting Sympathy",
+      "artist": "A Lot Like Birds",
+      "has_synced": true,
+      "path": "select/01_Myth_of_Lasting_Sympathy_A_Lot_Like_Birds.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Gimme Sympathy",
+      "artist": "Metric",
+      "has_synced": true,
+      "path": "select/02_Gimme_Sympathy_Metric.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Gimme Sympathy - Acoustic",
+      "artist": "Metric",
+      "has_synced": true,
+      "path": "select/03_Gimme_Sympathy_-_Acoustic_Metric.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Gimme Sympathy (Acoustic)",
+      "artist": "Metric",
+      "has_synced": true,
+      "path": "select/04_Gimme_Sympathy_(Acoustic)_Metric.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Unfinished Sympathy",
+      "artist": "Massive Attack",
+      "has_synced": true,
+      "path": "select/05_Unfinished_Sympathy_Massive_Attack.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Unfinished Sympathy",
+      "artist": "Massive Attack",
+      "has_synced": true,
+      "path": "select/06_Unfinished_Sympathy_Massive_Attack.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Unfinished Sympathy - Nellee Hooper 12'' Mix",
+      "artist": "Massive Attack",
+      "has_synced": true,
+      "path": "select/07_Unfinished_Sympathy_-_Nellee_Hooper_12''_Mix_Massive_Attack.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Unfinished Sympathy (Nellee Hooper 12\" Mix)",
+      "artist": "Massive Attack",
+      "has_synced": true,
+      "path": "select/08_Unfinished_Sympathy_(Nellee_Hooper_12__Mix)_Massive_Attack.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Unfinished Sympathy - Nellee Hooper 7'' Mix",
+      "artist": "Massive Attack",
+      "has_synced": true,
+      "path": "select/09_Unfinished_Sympathy_-_Nellee_Hooper_7''_Mix_Massive_Attack.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Unfinished Sympathy (Nellee Hooper 7\" Mix)",
+      "artist": "Massive Attack",
+      "has_synced": true,
+      "path": "select/10_Unfinished_Sympathy_(Nellee_Hooper_7__Mix)_Massive_Attack.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Unfinished Sympathy - Paul Oakenfold Mix",
+      "artist": "Massive Attack",
+      "has_synced": true,
+      "path": "select/11_Unfinished_Sympathy_-_Paul_Oakenfold_Mix_Massive_Attack.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Unfinished Sympathy (Paul Oakenfold Mix)",
+      "artist": "Massive Attack",
+      "has_synced": true,
+      "path": "select/12_Unfinished_Sympathy_(Paul_Oakenfold_Mix)_Massive_Attack.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Sympathy",
+      "artist": "Title Fight",
+      "has_synced": true,
+      "path": "select/13_Sympathy_Title_Fight.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Have You Any Sympathy?",
+      "artist": "Cock Robin",
+      "has_synced": true,
+      "path": "select/14_Have_You_Any_Sympathy_Cock_Robin.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Cock Robin \u0000 Have you any sympathy ?",
+      "artist": "Cock Robin",
+      "has_synced": true,
+      "path": "select/15_Cock_Robin_\u0000_Have_you_any_sympathy_Cock_Robin.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Sympathy",
+      "artist": "Sylver",
+      "has_synced": true,
+      "path": "select/16_Sympathy_Sylver.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Unfinished Sympathy - Live at Koningin Elisabethzaal 2012",
+      "artist": "Hooverphonic",
+      "has_synced": true,
+      "path": "select/17_Unfinished_Sympathy_-_Live_at_Koningin_Elisabethzaal_2012_Hooverphonic.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Unfinished Sympathy (Nellee Hooper 12'' Mix)",
+      "artist": "Massive Attack",
+      "has_synced": true,
+      "path": "select/18_Unfinished_Sympathy_(Nellee_Hooper_12''_Mix)_Massive_Attack.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Unfinished Sympathy - Orchestra Version",
+      "artist": "Hooverphonic",
+      "has_synced": true,
+      "path": "select/19_Unfinished_Sympathy_-_Orchestra_Version_Hooverphonic.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Unfinished Sympathy (Orchestra Version)",
+      "artist": "Hooverphonic",
+      "has_synced": true,
+      "path": "select/20_Unfinished_Sympathy_(Orchestra_Version)_Hooverphonic.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sympathy (feat. 星乃一歌&天馬咲希&望月穂波&日野森志歩&初音ミク)",
+      "artist": "Leo/need",
+      "has_synced": false,
+      "path": "select/pl_01_Sympathy_(feat._星乃一歌&天馬咲希&望月穂波&日野森志歩&初音ミク)_Leo_need.txt"
+    }
+  ]
+}
